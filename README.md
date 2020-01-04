@@ -31,10 +31,15 @@ The classification results contains:
 6. Graphical plots
 
 ## Running result
-- [Running result](https://github.com/jianengli/Multi-agent-system-for-intelligent-classification-data/blob/master/GIF.gif)
+<p align="center">
+<img src="https://github.com/jianengli/Multi-agent-system-for-intelligent-classification-data/blob/master/GIF.gif"/>
+</p>
 
 ## UML
-- [How is the data transmitted and classified?](https://github.com/jianengli/Multi-agent-system-for-intelligent-classification-data/blob/master/UML.png)
+How is the data transmitted and classified?
+<p align="center">
+<img src="https://github.com/jianengli/Multi-agent-system-for-intelligent-classification-data/blob/master/UML.png"/>
+</p>
 
 ## Prerequisites
 Configure Netbeans
