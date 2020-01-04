@@ -15,14 +15,14 @@ In this system, we created 4 agents, data agents and 3 classification agents. Th
 
 The data agent can read csv or TXT files. We believe that the "training set" folder provides supplementary data. The xls format can be used for knn classification and Naive Bayes classification, and the csv format can be used for kmeans classification.
 
-After the classification agent accepts the data stream (string), it converts the data into R statements, and uses Rserve to remotely execute R scripts, apply specific classification algorithms for data analysis, and return classification results on Netbeans.
+After the classification agent accepts the data stream (string), it converts the data into R statements, and uses Rserve to remotely execute R scripts, apply specific classification algorithms for data analysis, and return multi-dimensional classification results on Netbeans.
 
 The classification algorithms contains:
-1. KNN
-2. Kmeans
+1. k-NN
+2. k-means clustering
 3. Naive Bayes
 
-The classification results contains:
+Multi-dimensional classification results contains:
 1. Confusion matrix
 2. Accuracy
 3. Precision
