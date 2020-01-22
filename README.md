@@ -1,4 +1,4 @@
-# Multi-agent-system-for-intelligent-classification-data
+# Multi agent system for intelligent classification data
 A multi-agent system based on the JADE framework. Faced with a data set in xls or csv format, it can intelligently classify data according to specific classification algorithm instructions, and return classification results and classification performance.
 
 ## Table of Contents
